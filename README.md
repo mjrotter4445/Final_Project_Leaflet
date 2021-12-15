@@ -1,3 +1,3 @@
 <p align="center">
-   <img width="500" height="300" src="xx">
+   <img width="500" height="300" src="https://github.com/mjrotter4445/Final_Project_Leaflet/blob/main/demo_leaflet_longer.gif">
 </p>   
